@@ -1,0 +1,19 @@
+{
+  "name": "fcfl",
+  "version": "1.0.0",
+  "description": "this is an fcfl test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andritianamktech/fcfl.git"
+  },
+  "author": "Andritiana RANDRIANJATOVO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andritianamktech/fcfl/issues"
+  },
+  "homepage": "https://github.com/andritianamktech/fcfl#readme"
+}
